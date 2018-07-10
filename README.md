@@ -1,2 +1,0 @@
-# pptp
-Credits to daybreakersx
